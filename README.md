@@ -1,0 +1,2 @@
+# proxcy
+squid setup coinfiguration 
